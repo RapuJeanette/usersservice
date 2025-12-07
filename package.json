@@ -1,0 +1,20 @@
+{
+  "name": "usersservice",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "repository": {
+    "type": "git",
+    "url": "https://rapupena2909@dev.azure.com/rapupena2909/DDSV1E2-2025/_git/usersservice"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
